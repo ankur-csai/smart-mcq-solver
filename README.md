@@ -4,14 +4,12 @@
  
 | | |
 |---|---|
-| **Student** | Ankur `<FULL NAME>` |
-| **Roll Number** | `<21fXXXXXXX>` |
+| **Student** | Ankur Maurya |
+| **Roll Number** | `21f2000153` |
 | **Term** | T2-2026 |
 | **Kaggle Competition** | Smart MCQ Solver Challenge |
-| **Kaggle Notebook** | `DL-<rollno>-notebook-t22026` |
-| **W&B Project** | [`<rollno>-t22026`](https://wandb.ai/<entity>/<rollno>-t22026) |
-| **Best Public LB (MAP@3)** | `<score>` (cutoff: 0.73) |
- 
+| **Kaggle Notebook** | `DL-21f2000153-notebook-t22026` |
+
 ---
  
 ## 1. Problem Statement
